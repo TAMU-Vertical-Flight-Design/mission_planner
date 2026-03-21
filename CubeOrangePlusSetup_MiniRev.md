@@ -17,7 +17,7 @@
 2. Connect other end of connector to RCIN on CO+
     1. Keep in mind connection. Ground (GND) is on top
 3. Connect RTK to CAN1 port. Should blink blue for Disarm
-4. Run Arm/Disarm Check
+4. Run [Arm/Disarm Check](ArmDisarmCheck.md)
     1. Disarm Final
 
 # BELOW REQUIRES BATTERY
