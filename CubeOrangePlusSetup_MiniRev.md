@@ -29,7 +29,9 @@
 3. Attempt Connection remotely through mission planner (following Initial Connection Steps)
 4. If successful, Mission Planner will provide the data stream and orientation output
 
-5. 
+## Motor Direction Test
+
+
 
 6. [TEST LINK Text](README.md)
 
