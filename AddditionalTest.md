@@ -3,7 +3,7 @@
 2. Open Mission Planner
 3. On the top right, change "COM" to Auto
 4. Click Connect
-    4a. If error, disconnect
+    *. If error, disconnect
 
 3. [TEST LINK Text](README.md)
 
