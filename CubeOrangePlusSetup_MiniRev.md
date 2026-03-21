@@ -21,6 +21,9 @@
 4. Run Arm/Disarm Check
     1. Disarm Final
 
+# BELOW REQUIRES BATTERY
+
+## SiK Radio Setup
 
 6. [TEST LINK Text](README.md)
 
