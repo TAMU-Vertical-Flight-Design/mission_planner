@@ -9,15 +9,20 @@
 4. Click Connect
     1. If Mission Planner displays an error, disconnect and reconnect the wire (power cycle) the cube orange from the USB connection on your computer
 
-## Reciever (Rx) Setup (3 pin to 3 pin)
+## Reciever (Rx) Setup (3 pin to 3 pin) and RTK Setup
 
 1. Connect 3 pin connector to SBUS port on Rx module (box with two wires)
     1. (-) | Ground | Black
     2. (+) | Power  | Red
     3. (n) | Signal | White
+2. Connect other end of connector to RCIN on CO+
+    1. Keep in mind connection. Ground (GND) is on top
+3. Connect RTK to CAN1 port. Should blink blue for Disarm
+4. Run Arm/Disarm Check
+    1. Disarm Final
 
 
-3. [TEST LINK Text](README.md)
+6. [TEST LINK Text](README.md)
 
 
 
