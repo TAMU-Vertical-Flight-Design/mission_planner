@@ -24,6 +24,13 @@
 
 ## SiK Radio Setup
 
+1. Connect Aircraft Radio to TELEM1 on Cube Orange+
+2. Connect Home Radio to Computer running Mission Planner using USB Micro B cable
+3. Attempt Connection remotely through mission planner (following Initial Connection Steps)
+4. If successful, Mission Planner will provide the data stream and orientation output
+
+5. 
+
 6. [TEST LINK Text](README.md)
 
 
