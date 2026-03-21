@@ -2,6 +2,7 @@
 
 ## Initial Connection
 
+
 1. Connect Cube Orange+ Using Micro-B connector
 2. Open Mission Planner
 3. On the top right, change "COM" to Auto
@@ -9,6 +10,15 @@
     1. If Mission Planner displays an error, disconnect and reconnect the wire (power cycle) the cube orange from the USB connection on your computer
 
 ## Reciever (Rx) Setup (3 pin to 3 pin)
+
+1. Connect 3 pin connector to SBUS port on Rx module (box with two wires)
+    1. (-) | Ground | Black
+    2. (+) | Power  | Red
+    3. (n) | Signal | White
+
+
+3. [TEST LINK Text](README.md)
+
 
 
 3. [TEST LINK Text](README.md)
