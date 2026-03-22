@@ -28,7 +28,7 @@ Step 11. Click "GPS/RTK inject".
 
 Step 12. Select "COM10" on the dropdown in the right hand corner. Note this isn't necessarily always COM10, but the selected port needs to be the input port of the base station. 
 
-Step 13. Check the "Automatically Configure Reciever" box. A new menu should show up with the capability to configure the base station.
+Step 13. Check the "Automatically Configure Reciever" box. A new menu should show up with the capability to configure the base station, select the "Ublox M8P / F9P" dropdown.
 
 Step 11. Type desired GPS position accuracy into the "Survey in acc" box, then click "Restart" to configure the base station. Note expect somewhere between 5 - 10 minutes for the configuration of the base station. 
 
