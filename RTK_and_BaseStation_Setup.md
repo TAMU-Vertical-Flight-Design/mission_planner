@@ -1,11 +1,21 @@
-This file details how to setup the Here4 RTK and Base Station corrections on mission planner. 
+This file details how to setup the Here4 RTK and Base Station corrections on mission planner. Note, this tutorial does not include setup of the telemetry radio system for communication with the RTK. The base station communicates with the CubeOrange directly via USB in this tutorial. 
 
-Note, this tutorial does not include setup of the telemetry radio system. The base station communicates with the cubeoragne 
+Step 1. Plug Blue/Green wire from the RTK connection into "COM1" on the CubeOrange.
 
-Step 1. Plug RTK connection into "COM1" on the CubeOrange
-Step 2. Plug the 
-Step 3. Open mission planner
+Step 2. Plug the Base Station into your computer.
+
+Step 3. Open mission planner and connect to the drone. 
+
+Step 4. Click "Config" then "Full Parameter list.
+
+Step 5. Set "Can_P1_Driver" value to 1. 
+
+Step 6. Set "GPS_Type" to 9. 
+
+
+
 Step 4. Hit "Connect" in the top right corner. 
+
 Step 5. 
 
 
