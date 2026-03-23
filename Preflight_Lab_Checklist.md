@@ -11,6 +11,7 @@
 
 ## Connect Main and Auxillary batteries
 **WARNING: MOTORS MAY MOVE (TWITCH) SLIGHTLY AFTER A FEW SECONDS. THEY WILL STOP AFTER THIS STATE.**
+**WARNING: ALWAYS CONNECT BATTERY FIRST, THEN SHUNTPLUG. IN THE EVENT OF AN EMERGENCY STOP, PULL SHUNT PLUG WITH ANY FORCE REQUIRED. DO NOT WORRY ABOUT CONDITION OF AIRCRAFT WHEN ATTEMPTING TO REMOVE SHUNTPLUG
 - [ ] Regain radio connection by attempting to connect through the SiK radio
 - [ ] Test Electromagnet by enabling/disabling the electromagnet switch (Default state electromagnet on, toggle toward pilot to drop payload). **MUST REPEAT 3 TIMES WITHOUT FAIL**
 - [ ] Perform Spin Test by iterating through each motor and ensuring they are spinning the right direction
