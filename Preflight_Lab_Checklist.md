@@ -1,3 +1,4 @@
 # PRE-FLIGHT CHECKLIST - DO THIS BEFORE LEAVING FOR FLIGHT TEST LOCATION
 ## Before Battery
-1. test
+- [ ] test
+- [ ] test 2
