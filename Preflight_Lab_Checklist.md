@@ -8,9 +8,17 @@
   - [ ] After connecting, through SiK radio, wait a few seconds then attempt connection
 - [ ] Test datastream by Arm/Disarming aircraft and ensuring the data stream reflects the change
 - [ ] Disconnect computer/battery bank from cube orange
+- [ ] 
 
 ## Connect Main and Auxillary batteries
-**WARNING: MOTORS MAY MOVE (TWITCH) SLIGHTLY AFTER A FEW SECONDS. THEY WILL STOP AFTER**
+**WARNING: MOTORS MAY MOVE (TWITCH) SLIGHTLY AFTER A FEW SECONDS. THEY WILL STOP AFTER THIS STATE.**
 - [ ] Regain radio connection by attempting to connect through the SiK radio
-- [ ] Test Electromagnet by
+- [ ] Test Electromagnet by enabling/disabling the electromagnet switch (Default state electromagnet on, toggle toward pilot to drop payload). **MUST REPEAT 3 TIMES WITHOUT FAIL**
+- [ ] Perform Spin Test by iterating through each motor and ensuring they are spinning the right direction
+**CAUTION FOR THE NEXT STEPS**
+- [ ] Test Arm/Disarm through Transmitter, ensuring all aircraft motors are spinning (10% Throttle)
+- [ ] **VERY GENTLY AND FOR SHORT DURATION (2s)** throttle up the props to ensure they respond to Transmitter (Tx)
+- [ ] Throttle back down, disarm Aircraft
+
+**IF ALL STEPS ARE COMPLETE, DISARM, DISCONNECT, AND FOLD AIRCRAFT FOR TRANSPORT TO FLIGHT TESTING AREA **
 
