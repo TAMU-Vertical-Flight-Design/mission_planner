@@ -7,6 +7,10 @@
 - [ ] Test SiK Radio by either connecting a secondary computer to Cube Orange, or a battery bank, through the use of USB Micro B cable.
   - [ ] After connecting, through SiK radio, wait a few seconds then attempt connection
 - [ ] Test datastream by Arm/Disarming aircraft and ensuring the data stream reflects the change
+- [ ] Disconnect computer/battery bank from cube orange
 
-## Connect Battery
+## Connect Main and Auxillary batteries
+**WARNING: MOTORS MAY MOVE (TWITCH) SLIGHTLY AFTER A FEW SECONDS. THEY WILL STOP AFTER**
+- [ ] Regain radio connection by attempting to connect through the SiK radio
+- [ ] Test Electromagnet by
 
