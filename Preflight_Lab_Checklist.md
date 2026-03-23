@@ -8,7 +8,6 @@
   - [ ] After connecting, through SiK radio, wait a few seconds then attempt connection
 - [ ] Test datastream by Arm/Disarming aircraft and ensuring the data stream reflects the change
 - [ ] Disconnect computer/battery bank from cube orange
-- [ ] 
 
 ## Connect Main and Auxillary batteries
 **WARNING: MOTORS MAY MOVE (TWITCH) SLIGHTLY AFTER A FEW SECONDS. THEY WILL STOP AFTER THIS STATE.**
