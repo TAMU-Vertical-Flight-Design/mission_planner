@@ -1,4 +1,12 @@
 # PRE-FLIGHT CHECKLIST - DO THIS BEFORE LEAVING FOR FLIGHT TEST LOCATION
 ## Before Battery
-- [ ] test
-- [ ] test 2
+- [ ] Connect to Cube Orange through USB Micro B cable
+- [ ] Test Cube Orange Capability by lightly inducing pitch on the aircraft
+- [ ] Connect Telemetry Module (Rx) using 3 pin connector into RCIN on Cube Orange
+- [ ] Test telemetry module and Arm/Disarm sequence by actuating Arm/Disarm switch (Top, left, back toggle. towards pilot is disarm, away from pilot is arm)
+- [ ] Test SiK Radio by either connecting a secondary computer to Cube Orange, or a battery bank, through the use of USB Micro B cable.
+  - [ ] After connecting, through SiK radio, wait a few seconds then attempt connection
+- [ ] Test datastream by Arm/Disarming aircraft and ensuring the data stream reflects the change
+
+## Connect Battery
+
